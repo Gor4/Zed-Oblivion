@@ -33,7 +33,7 @@
         "scrollbar.thumb.border": "#21252C00",
         "scrollbar.track.border": "#21252C00",
 
-        "element.background": "#22252B",
+        "element.background": "#22252B00",
         "element.hover": "#323844",
         "element.active": "#4E78CC80",
         "element.selected": "#4E78CC80",
